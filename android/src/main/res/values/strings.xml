@@ -1,0 +1,5 @@
+<resources>
+    <string name="tonifica_widget_nome">Tonifica</string>
+    <string name="tonifica_widget_descrizione">Prossima seduta, settimana del programma e passi di oggi</string>
+    <string name="tonifica_canale">Allenamento</string>
+</resources>
